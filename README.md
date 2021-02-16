@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# This is Damarakeswar
+
+- 🎓 I’m an Undergrad at NIT Andhra Pradesh with a bachelor's in Electrical Science.
+- 💻 I’m a Software Developer and AI enthusiast.
 - 🔭 I’m currently working on Chat Application
 - 🌱 I’m currently learning MongoDB
 - 💬 Ask me about NodeJs, React
