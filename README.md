@@ -4,7 +4,7 @@
 
 - 🎓 I’m an Undergrad at NIT Andhra Pradesh with a bachelor's in Electrical Science.
 - 💻 I’m a Software Engineer and AI enthusiast.
-- 🔭 I’m currently working on Tesla UI.
+- 🔭 I’m currently working on ClubHouse Application.
 - 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about NodeJs, React.
 - 📫 How to reach me: damarakeswarg1999@gmail.com
