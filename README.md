@@ -4,9 +4,9 @@
 
 - 🎓 Completed Engineering degree at NIT Andhra Pradesh with a bachelor's in Electrical & Electronics Science.
 - 💻 I’m a Software Engineer and AI enthusiast.
-- 🔭 I’m currently working on Teachopia.
-- 🌱 I’m currently learning VueJS.
-- 💬 Ask me about NodeJs, React and React Native.
+- 🔭 I’m currently working in Validus FinTech.
+- 🌱 I’m currently learning ReactNative.
+- 💬 Ask me about JS, React and React Native.
 - 📫 How to reach me: damarakeswarg1999@gmail.com
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: Biryani lover<3
