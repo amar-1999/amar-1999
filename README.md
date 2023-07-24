@@ -5,7 +5,7 @@
 - 🎓 Completed Engineering degree at NIT Andhra Pradesh with a bachelor's in Electrical & Electronics Science.
 - 💻 I’m a Software Engineer and AI enthusiast.
 - 🔭 I’m currently working in Validus FinTech.
-- 🌱 I’m currently learning ReactNative.
+- 🌱 I’m currently learning Redux and Redux Persist.
 - 💬 Ask me about JS, React and React Native.
 - 📫 How to reach me: damarakeswarg1999@gmail.com
 - 😄 Pronouns: He/ His
