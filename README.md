@@ -6,7 +6,7 @@
 - 💻 I’m a Software Engineer and AI enthusiast.
 - 🔭 I’m currently working in Validus FinTech.
 - 🌱 I’m currently learning Redux and Redux Persist.
-- 💬 Ask me about JS, React and React Native.
+- 💬 Ask me about JavaScript, ReactJS and React Native.
 - 📫 How to reach me: damarakeswarg1999@gmail.com
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: Biryani lover<3
