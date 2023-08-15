@@ -21,12 +21,6 @@
     </a>
   </p>
 
-  <p align="left">
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter">
-    </a>
-  </p>
-
   <p>🔭 I’m currently working on
     <a href="https://play.google.com/store/apps/details?id=com.frontofficeapp&pcampaignid=web_share">Validus AIF</a>
   </p>
