@@ -7,8 +7,8 @@
 </head>
 
 <body>
-  <h1 align="center">Hi 👋, I'm Damarakeswar Guddanti</h1>
-  <h3 align="center">A passionate frontend developer</h3>
+  <h1 align="center">Meet Damarakeswar Guddanti</h1>
+  <h3 align="center">A Passionate FrontEnd Developer</h3>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=amar-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
