@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h1 align="center">Meet Damarakeswar Guddanti</h1>
+  <h1 align="center">Meet, Damarakeswar Guddanti</h1>
   <h3 align="center">A Passionate FrontEnd Developer</h3>
 
   <p align="left">
