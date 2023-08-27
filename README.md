@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
   <h1 align="center">Meet, Damarakeswar Guddanti</h1>
   <h3 align="center">A Passionate FrontEnd Developer</h3>
 
@@ -16,25 +8,28 @@
     </a>
   </p>
 
-  <p>- 🔭 I’m currently working on
-    <a href="https://play.google.com/store/apps/details?id=com.frontofficeapp&pcampaignid=web_share">Validus AIF</a>
-  </p>
+  <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
+ 
+<div>
 
-  <p>- 🌱 I’m currently learning <strong>NextJS</strong></p>
+- 🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.frontofficeapp&pcampaignid=web_share">Validus AIF</a>👨‍💻
+- 🌱 I’m currently learning **NextJS**.
+- 👨‍💻 All of my projects are available at <a href="https://damarakeswar-website.netlify.app/">https://damarakeswar-website.netlify.app/</a>
+- 💬 Ask me about ReactJS, React Native, Redux, and ContextAPI 😄
+- 📫 Reach me at <a href="mailto:damarakeswarg1999@gmail.com">damarakeswarg1999@gmail.com</a>
+- 😄 Pronouns: He/Him.
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DeYyI51QnyFc12N7n_aEjTNEvK9_3YIJ/view?usp=sharing">Resume</a>
+- ⚡ Fun fact: Biriyani Lover...😁.
 
-  <p>- 👨‍💻 All of my projects are available at
-    <a href="https://damarakeswar-website.netlify.app/">https://damarakeswar-website.netlify.app/</a>
-  </p>
+</div>
 
-  <p>- 💬 Ask me about <strong>ReactJS, React Native, Redux, and ContextAPI</strong></p>
 
-  <p>- 📫 How to reach me <a href="mailto:damarakeswarg1999@gmail.com">damarakeswarg1999@gmail.com</a></p>
+**Languages**
 
-  <p>- 📄 Know about my experiences
-    <a href="https://drive.google.com/file/d/1DeYyI51QnyFc12N7n_aEjTNEvK9_3YIJ/view?usp=sharing">Resume</a>
-  </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
-  <p>- ⚡ Fun fact: <strong>Biriyani Lover</strong></p>
 
   <h3>Connect with me:</h3>
   <p>
@@ -96,17 +91,6 @@
     </a> 
   </p>
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-1999&show_icons=true&locale=en&layout=compact" alt="Top languages">
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-1999&show_icons=true&locale=en" alt="GitHub stats">
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-1999&" alt="GitHub streak stats">
-  </p>
-</body>
-
-</html>
+  ![Damarakeswar's Stats](https://github-readme-stats.vercel.app/api?username=amar-1999&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+  ![Damarakeswar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amar-1999&theme=dark&hide_border=true) 
+  ![Damarakeswar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-1999&theme=dark&show_icons=true&hide_border=true&layout=compact)
