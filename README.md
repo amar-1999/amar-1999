@@ -56,7 +56,7 @@
     </a>
   </p>
 
-  <h3>Languages and Tools:</h3>
+  <h3>Experienced with</h3>
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40">
