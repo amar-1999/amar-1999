@@ -10,7 +10,7 @@
   <h1 align="center">Meet, Damarakeswar Guddanti</h1>
   <h3 align="center">A Passionate FrontEnd Developer</h3>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=amar-1999" alt="GitHub trophies">
     </a>
