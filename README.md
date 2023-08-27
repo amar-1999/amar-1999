@@ -16,25 +16,25 @@
     </a>
   </p>
 
-  <p>🔭 I’m currently working on
+  <p>- 🔭 I’m currently working on
     <a href="https://play.google.com/store/apps/details?id=com.frontofficeapp&pcampaignid=web_share">Validus AIF</a>
   </p>
 
-  <p>🌱 I’m currently learning <strong>NextJS</strong></p>
+  <p>- 🌱 I’m currently learning <strong>NextJS</strong></p>
 
-  <p>👨‍💻 All of my projects are available at
+  <p>- 👨‍💻 All of my projects are available at
     <a href="https://damarakeswar-website.netlify.app/">https://damarakeswar-website.netlify.app/</a>
   </p>
 
-  <p>💬 Ask me about <strong>ReactJS, React Native, Redux, and ContextAPI</strong></p>
+  <p>- 💬 Ask me about <strong>ReactJS, React Native, Redux, and ContextAPI</strong></p>
 
-  <p>📫 How to reach me <a href="mailto:damarakeswarg1999@gmail.com">damarakeswarg1999@gmail.com</a></p>
+  <p>- 📫 How to reach me <a href="mailto:damarakeswarg1999@gmail.com">damarakeswarg1999@gmail.com</a></p>
 
-  <p>📄 Know about my experiences
+  <p>- 📄 Know about my experiences
     <a href="https://drive.google.com/file/d/1DeYyI51QnyFc12N7n_aEjTNEvK9_3YIJ/view?usp=sharing">Resume</a>
   </p>
 
-  <p>⚡ Fun fact: <strong>Biriyani Lover</strong></p>
+  <p>- ⚡ Fun fact: <strong>Biriyani Lover</strong></p>
 
   <h3>Connect with me:</h3>
   <p>
