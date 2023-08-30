@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1201592%2Fscreenshots%2F9078494%2Fdeveloper_4x.gif%3Fresize%3D400x300%26vertical%3Dcenter&tbnid=U6facJPLs0qoVM&vet=12ahUKEwifhfDr64OBAxXpm2MGHZ96A60QMygIegQIARBg..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fprogrammer-animation&docid=t9pTq7ZSsDzjHM&w=1600&h=1200&q=coding%20images%20animated&hl=en&ved=2ahUKEwifhfDr64OBAxXpm2MGHZ96A60QMygIegQIARBg"  />
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 <div align="center">
