@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-code&psig=AOvVaw0xY8vS-axLIaNIZFOpNT9B&ust=1693466232106000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi458Trg4EDFQAAAAAdAAAAABAF"  />
+  <img height="150" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1201592%2Fscreenshots%2F9078494%2Fdeveloper_4x.gif%3Fresize%3D400x300%26vertical%3Dcenter&tbnid=U6facJPLs0qoVM&vet=12ahUKEwifhfDr64OBAxXpm2MGHZ96A60QMygIegQIARBg..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fprogrammer-animation&docid=t9pTq7ZSsDzjHM&w=1600&h=1200&q=coding%20images%20animated&hl=en&ved=2ahUKEwifhfDr64OBAxXpm2MGHZ96A60QMygIegQIARBg"  />
 </div>
 
 <div align="center">
